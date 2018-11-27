@@ -5,6 +5,7 @@ import java.util.concurrent.ExecutionException;
 
 /**
  * @author Benjamin Winterberg
+ * Adding additional comment to test stashes!!!
  */
 public class CompletableFuture1 {
 
